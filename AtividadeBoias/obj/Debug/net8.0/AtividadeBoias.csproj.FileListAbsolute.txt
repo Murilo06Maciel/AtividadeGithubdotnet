@@ -1,0 +1,15 @@
+C:\Users\Alunos\OneDrive\Documents\murilo\AtividadeGithubdotnet\AtividadeBoias\obj\Debug\net8.0\AtividadeBoias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documents\murilo\AtividadeGithubdotnet\AtividadeBoias\obj\Debug\net8.0\AtividadeBoias.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documents\murilo\AtividadeGithubdotnet\AtividadeBoias\obj\Debug\net8.0\AtividadeBoias.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documents\murilo\AtividadeGithubdotnet\AtividadeBoias\obj\Debug\net8.0\AtividadeBoias.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documents\murilo\AtividadeGithubdotnet\AtividadeBoias\obj\Debug\net8.0\AtividadeBoias.sourcelink.json
+C:\Users\Alunos\OneDrive\Documents\murilo\AtividadeGithubdotnet\AtividadeBoias\bin\Debug\net8.0\AtividadeBoias.exe
+C:\Users\Alunos\OneDrive\Documents\murilo\AtividadeGithubdotnet\AtividadeBoias\bin\Debug\net8.0\AtividadeBoias.deps.json
+C:\Users\Alunos\OneDrive\Documents\murilo\AtividadeGithubdotnet\AtividadeBoias\bin\Debug\net8.0\AtividadeBoias.runtimeconfig.json
+C:\Users\Alunos\OneDrive\Documents\murilo\AtividadeGithubdotnet\AtividadeBoias\bin\Debug\net8.0\AtividadeBoias.dll
+C:\Users\Alunos\OneDrive\Documents\murilo\AtividadeGithubdotnet\AtividadeBoias\bin\Debug\net8.0\AtividadeBoias.pdb
+C:\Users\Alunos\OneDrive\Documents\murilo\AtividadeGithubdotnet\AtividadeBoias\obj\Debug\net8.0\AtividadeBoias.dll
+C:\Users\Alunos\OneDrive\Documents\murilo\AtividadeGithubdotnet\AtividadeBoias\obj\Debug\net8.0\refint\AtividadeBoias.dll
+C:\Users\Alunos\OneDrive\Documents\murilo\AtividadeGithubdotnet\AtividadeBoias\obj\Debug\net8.0\AtividadeBoias.pdb
+C:\Users\Alunos\OneDrive\Documents\murilo\AtividadeGithubdotnet\AtividadeBoias\obj\Debug\net8.0\AtividadeBoias.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documents\murilo\AtividadeGithubdotnet\AtividadeBoias\obj\Debug\net8.0\ref\AtividadeBoias.dll

@@ -1,4 +1,7 @@
-﻿int escolha;
+﻿bool boiaA, boiaB, boiaC, continuar;
+int escolha;
+do
+{
 Console.WriteLine("Escolha entre manual ou aleatório:");
 Console.WriteLine("1) Manual");
 Console.WriteLine("2) Aleatório:");
@@ -6,9 +9,6 @@ escolha = int.Parse(Console.ReadLine());
 switch(escolha)
 {
 case 1:
-bool boiaA, boiaB, boiaC, continuar;
-do
-{
 	Console.WriteLine("A boia A (primeiro nível) está cheia? (0 para não, 1 para sim)");
 	boiaA = Console.ReadLine() == "1";
 	Console.WriteLine("\nA boia B (segundo nível) está cheia? (0 para não, 1 para sim)");
@@ -59,19 +59,11 @@ do
 			Console.WriteLine("\nDesligue a válvula.");
 			Console.WriteLine("\nNão ligue a bomba.");
 		}
-
-			Console.WriteLine("\nDeseja continuar?");
-			continuar = Console.ReadLine() == "1";
-		}
-        while (continuar);
 		break;
 
 		case 2:
-        bool boiaA, boiaB, boiaC, continuar;
         Random random = new Random();
-
-        do
-        {
+        
             boiaA = random.Next(2) == 1;
             boiaB = random.Next(2) == 1;
             boiaC = random.Next(2) == 1;
@@ -123,15 +115,15 @@ do
                 Console.WriteLine("\nDesligue a válvula.");
                 Console.WriteLine("Não ligue a bomba.");
             }
-
-            Console.WriteLine("\nDeseja continuar? (1 para sim, 0 para não)");
-            continuar = Console.ReadLine() == "1";
-        }
-        while (continuar);
+            break;
+        
 
 		default: 
         Console.WriteLine("Opção inválida!"); 
         break;
 }
+Console.WriteLine("\nDeseja continuar?");
+continuar = Console.ReadLine() == "1";
+}while (continuar);
     
 
